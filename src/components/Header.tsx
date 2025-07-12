@@ -20,6 +20,7 @@ export const Header = () => {
           <a href="#storytellers" className="text-gray-700 hover:text-orange-600 transition-colors">Storytellers</a>
           <a href="#about" className="text-gray-700 hover:text-orange-600 transition-colors">About</a>
           <a href="#contact" className="text-gray-700 hover:text-orange-600 transition-colors">Contact</a>
+          <a href="/admin" className="text-gray-700 hover:text-orange-600 transition-colors">Admin</a>
         </nav>
         
         <div className="flex items-center space-x-4">
